@@ -1,0 +1,15 @@
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\Longest Palindromic Substring\obj\Debug\net8.0\LongestPalindromicSubstring.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\Longest Palindromic Substring\obj\Debug\net8.0\LongestPalindromicSubstring.AssemblyInfoInputs.cache
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\Longest Palindromic Substring\obj\Debug\net8.0\LongestPalindromicSubstring.AssemblyInfo.cs
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\Longest Palindromic Substring\obj\Debug\net8.0\LongestPalindromicSubstring.csproj.CoreCompileInputs.cache
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\Longest Palindromic Substring\obj\Debug\net8.0\LongestPalindromicSubstring.sourcelink.json
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\Longest Palindromic Substring\bin\Debug\net8.0\LongestPalindromicSubstring.exe
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\Longest Palindromic Substring\bin\Debug\net8.0\LongestPalindromicSubstring.deps.json
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\Longest Palindromic Substring\bin\Debug\net8.0\LongestPalindromicSubstring.runtimeconfig.json
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\Longest Palindromic Substring\bin\Debug\net8.0\LongestPalindromicSubstring.dll
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\Longest Palindromic Substring\bin\Debug\net8.0\LongestPalindromicSubstring.pdb
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\Longest Palindromic Substring\obj\Debug\net8.0\LongestPalindromicSubstring.dll
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\Longest Palindromic Substring\obj\Debug\net8.0\refint\LongestPalindromicSubstring.dll
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\Longest Palindromic Substring\obj\Debug\net8.0\LongestPalindromicSubstring.pdb
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\Longest Palindromic Substring\obj\Debug\net8.0\LongestPalindromicSubstring.genruntimeconfig.cache
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\Longest Palindromic Substring\obj\Debug\net8.0\ref\LongestPalindromicSubstring.dll

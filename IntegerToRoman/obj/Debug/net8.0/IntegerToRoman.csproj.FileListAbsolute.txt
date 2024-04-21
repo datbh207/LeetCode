@@ -1,0 +1,15 @@
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\IntegerToRoman\obj\Debug\net8.0\IntegerToRoman.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\IntegerToRoman\obj\Debug\net8.0\IntegerToRoman.AssemblyInfoInputs.cache
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\IntegerToRoman\obj\Debug\net8.0\IntegerToRoman.AssemblyInfo.cs
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\IntegerToRoman\obj\Debug\net8.0\IntegerToRoman.csproj.CoreCompileInputs.cache
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\IntegerToRoman\obj\Debug\net8.0\IntegerToRoman.sourcelink.json
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\IntegerToRoman\bin\Debug\net8.0\IntegerToRoman.exe
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\IntegerToRoman\bin\Debug\net8.0\IntegerToRoman.deps.json
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\IntegerToRoman\bin\Debug\net8.0\IntegerToRoman.runtimeconfig.json
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\IntegerToRoman\bin\Debug\net8.0\IntegerToRoman.dll
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\IntegerToRoman\bin\Debug\net8.0\IntegerToRoman.pdb
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\IntegerToRoman\obj\Debug\net8.0\IntegerToRoman.dll
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\IntegerToRoman\obj\Debug\net8.0\refint\IntegerToRoman.dll
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\IntegerToRoman\obj\Debug\net8.0\IntegerToRoman.pdb
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\IntegerToRoman\obj\Debug\net8.0\IntegerToRoman.genruntimeconfig.cache
+D:\User\Panda\Desktop\CODE\Exercise\LeetCode\LeetCode\IntegerToRoman\obj\Debug\net8.0\ref\IntegerToRoman.dll
