@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LongestPalindromicSubstring")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3dc161d1ef88328bdffe3083f372bfd4836a8687")]
 [assembly: System.Reflection.AssemblyProductAttribute("LongestPalindromicSubstring")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LongestPalindromicSubstring")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

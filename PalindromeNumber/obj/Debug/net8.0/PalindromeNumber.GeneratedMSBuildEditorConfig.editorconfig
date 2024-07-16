@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PalindromeNumber
-build_property.ProjectDir = D:\User\Panda\Desktop\CODE\LeetCode\LeetCode\PalindromeNumber\
+build_property.ProjectDir = D:\Desktop\Project\LeetCode\PalindromeNumber\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
