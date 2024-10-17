@@ -1,0 +1,15 @@
+C:\Users\Windows\Desktop\LeetCode\Stack\Stack\Stack\bin\Debug\net8.0\ValidParentheses.exe
+C:\Users\Windows\Desktop\LeetCode\Stack\Stack\Stack\bin\Debug\net8.0\ValidParentheses.deps.json
+C:\Users\Windows\Desktop\LeetCode\Stack\Stack\Stack\bin\Debug\net8.0\ValidParentheses.runtimeconfig.json
+C:\Users\Windows\Desktop\LeetCode\Stack\Stack\Stack\bin\Debug\net8.0\ValidParentheses.dll
+C:\Users\Windows\Desktop\LeetCode\Stack\Stack\Stack\bin\Debug\net8.0\ValidParentheses.pdb
+C:\Users\Windows\Desktop\LeetCode\Stack\Stack\Stack\obj\Debug\net8.0\ValidParentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\LeetCode\Stack\Stack\Stack\obj\Debug\net8.0\ValidParentheses.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\LeetCode\Stack\Stack\Stack\obj\Debug\net8.0\ValidParentheses.AssemblyInfo.cs
+C:\Users\Windows\Desktop\LeetCode\Stack\Stack\Stack\obj\Debug\net8.0\ValidParentheses.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\LeetCode\Stack\Stack\Stack\obj\Debug\net8.0\ValidParentheses.sourcelink.json
+C:\Users\Windows\Desktop\LeetCode\Stack\Stack\Stack\obj\Debug\net8.0\ValidParentheses.dll
+C:\Users\Windows\Desktop\LeetCode\Stack\Stack\Stack\obj\Debug\net8.0\refint\ValidParentheses.dll
+C:\Users\Windows\Desktop\LeetCode\Stack\Stack\Stack\obj\Debug\net8.0\ValidParentheses.pdb
+C:\Users\Windows\Desktop\LeetCode\Stack\Stack\Stack\obj\Debug\net8.0\ValidParentheses.genruntimeconfig.cache
+C:\Users\Windows\Desktop\LeetCode\Stack\Stack\Stack\obj\Debug\net8.0\ref\ValidParentheses.dll
