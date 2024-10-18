@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Windows\\Desktop\\LeetCode\\Stack\\Stack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95775A83-4BB7-4927-ADE5-9948E49F89E9}|Stack\\ValidParentheses.csproj|c:\\users\\windows\\desktop\\leetcode\\stack\\stack\\stack\\validparentheses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95775A83-4BB7-4927-ADE5-9948E49F89E9}|Stack\\ValidParentheses.csproj|solutionrelative:stack\\validparentheses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D6EB3EC-79D6-4613-AA28-EDD6FC23EACE}|MyStack\\MyStack.csproj|c:\\users\\windows\\desktop\\leetcode\\stack\\stack\\mystack\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D6EB3EC-79D6-4613-AA28-EDD6FC23EACE}|MyStack\\MyStack.csproj|solutionrelative:mystack\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCF54A2-525B-4A24-A42D-2EF9E172EA3D}|BinaryTreePostorderTraversal\\BinaryTreePostorderTraversal.csproj|c:\\users\\windows\\desktop\\leetcode\\stack\\stack\\binarytreepostordertraversal\\binarytreepostordertraversal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCF54A2-525B-4A24-A42D-2EF9E172EA3D}|BinaryTreePostorderTraversal\\BinaryTreePostorderTraversal.csproj|solutionrelative:binarytreepostordertraversal\\binarytreepostordertraversal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A5456D-2B22-4D1E-A66D-EFAF3AD4D57C}|BinaryTreePreorderTraversal\\BinaryTreePreorderTraversal.csproj|c:\\users\\windows\\desktop\\leetcode\\stack\\stack\\binarytreepreordertraversal\\binarytreepreordertraversal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A5456D-2B22-4D1E-A66D-EFAF3AD4D57C}|BinaryTreePreorderTraversal\\BinaryTreePreorderTraversal.csproj|solutionrelative:binarytreepreordertraversal\\binarytreepreordertraversal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ValidParentheses.cs",
-              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\LeetCode\\Stack\\Stack\\Stack\\ValidParentheses.cs",
-              "RelativeDocumentMoniker": "Stack\\ValidParentheses.cs",
-              "ToolTip": "C:\\Users\\Windows\\Desktop\\LeetCode\\Stack\\Stack\\Stack\\ValidParentheses.cs",
-              "RelativeToolTip": "Stack\\ValidParentheses.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAArAAAAAAAAAA==",
+              "Title": "MyStack.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\LeetCode\\Stack\\Stack\\MyStack\\MyStack.cs",
+              "RelativeDocumentMoniker": "MyStack\\MyStack.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\LeetCode\\Stack\\Stack\\MyStack\\MyStack.cs*",
+              "RelativeToolTip": "MyStack\\MyStack.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T17:25:58.5Z",
+              "WhenOpened": "2024-10-18T02:59:25.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BinaryTreePostorderTraversal.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\LeetCode\\Stack\\Stack\\BinaryTreePostorderTraversal\\BinaryTreePostorderTraversal.cs",
+              "RelativeDocumentMoniker": "BinaryTreePostorderTraversal\\BinaryTreePostorderTraversal.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\LeetCode\\Stack\\Stack\\BinaryTreePostorderTraversal\\BinaryTreePostorderTraversal.cs*",
+              "RelativeToolTip": "BinaryTreePostorderTraversal\\BinaryTreePostorderTraversal.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T02:52:05.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BinaryTreePreorderTraversal.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\LeetCode\\Stack\\Stack\\BinaryTreePreorderTraversal\\BinaryTreePreorderTraversal.cs",
+              "RelativeDocumentMoniker": "BinaryTreePreorderTraversal\\BinaryTreePreorderTraversal.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\LeetCode\\Stack\\Stack\\BinaryTreePreorderTraversal\\BinaryTreePreorderTraversal.cs",
+              "RelativeToolTip": "BinaryTreePreorderTraversal\\BinaryTreePreorderTraversal.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwCsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T02:42:46.749Z",
               "EditorCaption": ""
             }
           ]
